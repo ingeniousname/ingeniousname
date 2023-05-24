@@ -4,7 +4,7 @@ I am a second year undergraduate computer science student at Warsaw University o
 
 Passionate about: C/C++ and low level stuff, algorithms
 
-Hates: Matlab, anything they force me to do at uni
+Hates: anything they force me to do at uni
 
 
 
