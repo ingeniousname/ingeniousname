@@ -2,7 +2,7 @@
 
 I am a second year undergraduate computer science student at Warsaw University of Technology.
 
-Passionate about: C/C++ and low level stuff, computer graphics, algorithms, writing games
+Passionate about: C/C++ and low level stuff, algorithms
 
 Hates: Matlab, anything they force me to do at uni
 
