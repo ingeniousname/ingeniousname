@@ -1,6 +1,6 @@
 <h2>Welcome to my workshop!</h2>
 
-I am a second year undergraduate computer science student at Warsaw University of Technology.
+I am a third year undergraduate computer science student at Warsaw University of Technology.
 
 Passionate about: C/C++ and low level stuff, algorithms
 
