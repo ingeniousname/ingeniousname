@@ -4,7 +4,7 @@ I am a software engineer and currently a Master's compsci student at the Warsaw 
 
 Nothing gets me going like a hard problem to crack!
 
-### 🛠️ Technologies & Tools  
+### 🛠️ Fav Technologies
 
 ![C](https://img.shields.io/badge/-C-%2300599C?logo=c&logoColor=white&style=flat-square)  ![C++](https://img.shields.io/badge/-C++-%2300599C?logo=cplusplus&logoColor=white&style=flat-square) ![CUDA](https://img.shields.io/badge/-CUDA-%2376B900?logo=nvidia&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-%233776AB?logo=python&logoColor=white&style=flat-square)  ![OpenGL](https://img.shields.io/badge/-OpenGL-%23FFFFFF?logo=opengl&logoColor=black&style=flat-square)  ![DirectX](https://img.shields.io/badge/-DirectX-%231E90FF?logo=directx&logoColor=white&style=flat-square)  
 
